@@ -1,0 +1,183 @@
+Instance:Instances/0/20/3/2/instance0-20-3-2.data
+Solution status:Mip1
+Optimal Value=12
+temps écoulé (en secondes):0.123614
+IdMachine Nombre de jobs ordonnancés
+0 6
+1 6
+IdMachine n°Job Si Fi 
+0 1 674 692
+0 4 718 863
+0 7 1223 1304
+0 8 949 1141
+0 12 1251 1389
+0 16 232 494
+1 0 1401 1424
+1 3 546 1126
+1 5 490 1274
+1 11 1293 1325
+1 17 1355 1388
+1 19 163 233
+Instance:Instances/0/20/3/2/instance1-20-3-2.data
+Solution status:Mip1
+Optimal Value=11
+temps écoulé (en secondes):0.126938
+IdMachine Nombre de jobs ordonnancés
+0 6
+1 5
+IdMachine n°Job Si Fi 
+0 0 1426 1433
+0 1 334 435
+0 10 938 1042
+0 13 1077 1353
+0 16 1010 1296
+0 18 1362 1407
+1 2 1405 1427
+1 7 687 824
+1 14 990 1172
+1 17 1206 1395
+1 19 859 969
+Instance:Instances/0/20/3/2/instance2-20-3-2.data
+Solution status:Mip1
+Optimal Value=9
+temps écoulé (en secondes):0.147937
+IdMachine Nombre de jobs ordonnancés
+0 4
+1 5
+IdMachine n°Job Si Fi 
+0 4 400 1028
+0 8 1174 1339
+0 10 1355 1419
+0 12 981 1113
+1 1 63 129
+1 2 1324 1391
+1 14 926 1060
+1 16 1317 1376
+1 17 346 1214
+Instance:Instances/0/20/3/2/instance3-20-3-2.data
+Solution status:Mip1
+Optimal Value=11
+temps écoulé (en secondes):0.152959
+IdMachine Nombre de jobs ordonnancés
+0 6
+1 5
+IdMachine n°Job Si Fi 
+0 1 518 565
+0 7 1235 1373
+0 8 180 496
+0 11 821 833
+0 14 861 1200
+0 16 1399 1412
+1 4 752 938
+1 9 1206 1382
+1 13 631 1153
+1 17 841 893
+1 19 306 606
+Instance:Instances/0/20/3/2/instance4-20-3-2.data
+Solution status:Mip1
+Optimal Value=13
+temps écoulé (en secondes):0.158757
+IdMachine Nombre de jobs ordonnancés
+0 6
+1 7
+IdMachine n°Job Si Fi 
+0 0 823 891
+0 2 43 346
+0 5 1236 1346
+0 9 363 728
+0 10 1009 1145
+0 18 1409 1429
+1 6 1181 1353
+1 8 833 1287
+1 11 763 1018
+1 12 1381 1414
+1 14 32 860
+1 15 1013 1395
+1 19 215 368
+Instance:Instances/0/20/3/2/instance5-20-3-2.data
+Solution status:Mip1
+Optimal Value=10
+temps écoulé (en secondes):0.15253
+IdMachine Nombre de jobs ordonnancés
+0 5
+1 5
+IdMachine n°Job Si Fi 
+0 5 502 565
+0 8 1033 1171
+0 9 1306 1353
+0 14 759 1274
+0 16 730 795
+1 1 1334 1419
+1 3 497 529
+1 4 730 1052
+1 10 1170 1315
+1 11 551 592
+Instance:Instances/0/20/3/2/instance6-20-3-2.data
+Solution status:Mip1
+Optimal Value=11
+temps écoulé (en secondes):0.136366
+IdMachine Nombre de jobs ordonnancés
+0 5
+1 6
+IdMachine n°Job Si Fi 
+0 2 365 418
+0 4 608 775
+0 10 438 524
+0 12 858 871
+0 19 1272 1289
+1 0 1225 1333
+1 5 115 603
+1 6 579 1013
+1 8 104 245
+1 9 289 1252
+1 13 1028 1116
+Instance:Instances/0/20/3/2/instance7-20-3-2.data
+Solution status:Mip1
+Optimal Value=8
+temps écoulé (en secondes):0.15691
+IdMachine Nombre de jobs ordonnancés
+0 3
+1 5
+IdMachine n°Job Si Fi 
+0 5 311 737
+0 9 1114 1317
+0 11 793 1101
+1 2 1331 1339
+1 7 1230 1323
+1 10 853 1080
+1 16 386 747
+1 18 195 202
+Instance:Instances/0/20/3/2/instance8-20-3-2.data
+Solution status:Mip1
+Optimal Value=10
+temps écoulé (en secondes):0.109719
+IdMachine Nombre de jobs ordonnancés
+0 7
+1 3
+IdMachine n°Job Si Fi 
+0 0 490 635
+0 3 710 791
+0 5 663 816
+0 6 1263 1318
+0 11 1373 1437
+0 13 204 626
+0 16 1080 1195
+1 8 1043 1096
+1 12 569 773
+1 15 1115 1396
+Instance:Instances/0/20/3/2/instance9-20-3-2.data
+Solution status:Mip1
+Optimal Value=8
+temps écoulé (en secondes):0.134046
+IdMachine Nombre de jobs ordonnancés
+0 3
+1 5
+IdMachine n°Job Si Fi 
+0 0 556 849
+0 9 1329 1438
+0 10 885 1070
+1 3 1297 1359
+1 5 1248 1288
+1 14 61 1003
+1 16 1017 1194
+1 18 1217 1249
